@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=vishnupriyaRamanathan)
+![](https://komarev.com/ghpvc/?username=vishnupriyaRamanathan&color=green)
